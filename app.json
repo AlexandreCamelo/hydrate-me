@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "hydrate me",
+    "slug": "hydrateme",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logoResumido.png",
+    "splash": {
+      "image": "./assets/logoInternacional.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "icon": "./assets/logoResumido.png",
+
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-5442077179974899~2909022450" 
+      }
+
+
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logoResumidoTransp.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.alexcamelodev.hidrateme",
+
+
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-5442077179974899~4289730347" 
+      }
+
+
+
+    },
+    "web": {
+      "favicon": "./assets/logoResumido.png"
+    }
+  }
+}
