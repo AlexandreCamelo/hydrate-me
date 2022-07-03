@@ -18,4 +18,4 @@ The entire visual part of the app is in Brazilian Portuguese (I was too lazy to 
 
 Anyone can use, modify and publish this code in any way they see fit. I just ask you to give me some credit, in the form of publicity on my github channel.
 
-<h4 style="font-weight: bold; color: #C71585;">Good luck!</h4>
+<h3>Good luck!</h3>
