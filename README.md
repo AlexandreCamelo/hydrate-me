@@ -21,7 +21,7 @@ Anyone can use, modify and publish this code in any way they see fit. I just ask
 <h3>Good luck!</h3>
 
 
-
+</br></br></br><hr>
 Aplicativo completo para administração diária de sua hidratação.
 
 Calcula o consumo de água, de acordo com sexo, idade e peso.
