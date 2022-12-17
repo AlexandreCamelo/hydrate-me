@@ -19,3 +19,25 @@ The entire visual part of the app is in Brazilian Portuguese (I was too lazy to 
 Anyone can use, modify and publish this code in any way they see fit. I just ask you to give me some credit, in the form of publicity on my github channel.
 
 <h3>Good luck!</h3>
+
+
+
+Aplicativo completo para administração diária de sua hidratação.
+
+Calcula o consumo de água, de acordo com sexo, idade e peso.
+
+Constrói pequeno plano diário de hidratação, agendando lembretes para o usuário beber água ao longo do dia. À medida que for bebendo água, o usuário deverá informar ao aplicativo, que irá armazenar e organizar essas informações.
+
+Ele mantém um histórico de todas as vezes que o usuário bebeu água, mostrado graficamente, para que você possa acompanhar facilmente se a hidratação está indo bem.
+
+Construído em react native, usando expo.
+
+Este aplicativo foi publicado com sucesso na Play Store. No entanto, após algumas semanas, o Google o excluiu, informando que havia “caracteres especiais” na descrição do aplicativo. Como fiquei aborrecido (e com preguiça de corrigir), resolvi compartilhar o código, publicamente, no github.
+
+Apesar de ser um aplicativo simples, posso afirmar que deu muito trabalho construí-lo. Dessa forma, sei que poderá ajudar muita gente que está iniciando nessa tecnologia, já que envolve push notifications de forma massiva, entre outras funções interessantes.
+
+Toda a parte visual do app está em português do Brasil (tive preguiça de traduzir para o inglês), mas você pode fazer isso facilmente.
+
+Qualquer pessoa pode usar, modificar e publicar este código da maneira que achar melhor. Só peço que me dê algum crédito, na forma de divulgação no meu canal do github.
+
+Boa sorte!
